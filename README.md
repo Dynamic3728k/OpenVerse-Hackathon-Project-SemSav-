@@ -1,4 +1,4 @@
-View app in AI Studio: https://ai.studio/apps/drive/1OQUAHqTHWGq3LpB_-Et63oZNdpQCzkk-
+
    
 # 🎓 Open-Verse (Semester Saviours)
 
